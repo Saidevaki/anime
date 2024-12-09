@@ -1,0 +1,15 @@
+# Anime Page
+
+A simple web page showcasing information about anime. The page includes sections like anime titles, images, descriptions, and links to official websites or streaming platforms. Built with HTML, CSS.
+
+## Features
+
+- Display a list of anime titles with images.
+- Interactive UI with basic hover effects.
+- Mobile-friendly layout using responsive design principles.
+
+## Technologies Used
+
+- **HTML**: Structure of the page and content.
+- **CSS**: Styling and layout.
+
